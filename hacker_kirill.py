@@ -1,9 +1,9 @@
-index = str(input("Введите 7: "))
-alysm = str(input("Кирилл: "))
+index = str(input("Введите сас: "))
+alysm = str(input("Сас: "))
 
-if index == "7":
+if index == "сас":
     pass
-if alysm == "Кирилл":
-    print("хакер", alysm, index, "строчек кода")
+if alysm == "Сас":
+    print("засал", alysm, index, "в кувшин")
 else:
-    print("иблан?")
+    print("Ты охуел?")
